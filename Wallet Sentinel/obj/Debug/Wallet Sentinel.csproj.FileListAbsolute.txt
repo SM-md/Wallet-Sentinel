@@ -1,0 +1,33 @@
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Wallet Sentinel.exe.config
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Wallet Sentinel.exe
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Wallet Sentinel.pdb
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\obj\Debug\Wallet Sentinel.csproj.AssemblyReference.cache
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\obj\Debug\Wallet Sentinel.csproj.CoreCompileInputs.cache
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\obj\Debug\Wallet Sentinel.exe
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\obj\Debug\Wallet Sentinel.pdb
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\BetterConsoles.Colors.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\BetterConsoles.Core.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\BetterConsoleTables.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Clawfoot.Core.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Clawfoot.Extensions.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Buffers.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Collections.Immutable.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.ComponentModel.Annotations.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Memory.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Numerics.Vectors.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Threading.Tasks.Extensions.dll
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Clawfoot.Core.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Buffers.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Collections.Immutable.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Memory.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Numerics.Vectors.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\bin\Debug\System.Threading.Tasks.Extensions.xml
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\obj\Debug\Wallet Sentinel.csproj.SuggestedBindingRedirects.cache
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\obj\Debug\Wallet Sentinel.exe.config
+W:\Documents\BSCpE\CpE261\Codes\Wallet Sentinel\Wallet Sentinel\obj\Debug\Wallet Sentinel.csproj.CopyComplete
